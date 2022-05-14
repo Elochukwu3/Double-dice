@@ -78,7 +78,7 @@
 .btn:hover {
     background: greenyellow;
     transition: 2s;
-    color: grey;
+    color:whitesmoke;
 }
 
 .message {
